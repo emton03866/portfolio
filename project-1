@@ -31,5 +31,19 @@ Customers are unclear on what plans help address their needs and are overwhelmed
 Opportunity
 Design a question-based experience to help users navigate their plan options and increase the number of informed customers
 
+OPEN QUESTIONS ➡️ PROCESS
+How should we approach making this?
+
+When starting to ideate on what this question-based experience would look like, there were several initial considerations and questions. 
+What is the form of the assessment? What is the question logic? Where should this be placed?
+
+COMPETITIVE ANALYSIS
+What form should this experience take?
+In order to determine what form this question-based experience should take, I first conducted a competitive analysis. The competitive analysis consisted of 5 market competitors ranging from telephone companies to other SaaS companies: Microsoft, HubSpot, LinkedIn, codecademy and T-mobile.  
+We wanted to explore how companies similarly give users a personalized recommendation through a series of questions. Therefore, we mainly determined the experience should be either an assessment or a chatbot conversation. We ultimately decided on making the experience an assessment as we considered the potential number of questions and ease of implementation. 
+
+DECISION TREE
+What should be the question logic and order?
+After determining that this experience should be an assessment, I next worked with an APM intern, Hamreet, to create a decision tree. A decision tree helped visualize the various question options, order and logic of the assessment.
 
 
